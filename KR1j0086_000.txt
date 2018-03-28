@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 孫氏唐韻考
-#+DATE: 2018-03-28 13:09:59.285781
+#+DATE: 2018-03-28 13:09:59.369704
 #+PROPERTY: ID KR1j0086
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0086_WYG_000-1a>¶
 欽定四庫全書　　　　經部十¶
